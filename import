@@ -1,1 +1,2 @@
 check battery life helth -> powercfg /batteryreport
+check Pc details  ->  systeminfo
