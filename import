@@ -1,3 +1,4 @@
 check battery life helth -> powercfg /batteryreport
 check Pc details  ->  systeminfo
 from when my PC in on   ->  systeminfo | find "System Boot Time"
+Full shutdown           ->  hutdown /s /f /t 0
