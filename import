@@ -2,3 +2,15 @@ check battery life helth -> powercfg /batteryreport
 check Pc details  ->  systeminfo
 from when my PC in on   ->  systeminfo | find "System Boot Time"
 Full shutdown           ->  hutdown /s /f /t 0
+cls                     ->CLEAR terminal
+dir                     -> see the the item under folder
+check details any package  (like java compiler)    ->  javac --version
+
+
+
+Java Command:
+i)  javac filename   ->build
+ii)java  filename    ->run
+
+
+
