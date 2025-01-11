@@ -1,0 +1,2 @@
+comnination    -> binomial_coefficient(n,k);
+factorial      ->tgamma(n+1);
